@@ -4,8 +4,8 @@ import Loader from "./Loader/Loader";
 import searchIcon from "../assets/searchIcon.svg";
 import './recipes.css';
 
-const API_KEY = //api_key;
-const API_ID = //api_id;
+const API_KEY = 'c4c22ec12c8a41075c69baa0a0394957';
+const API_ID = '249489fa';
 const ACCESSPOINT = 'https://api.edamam.com/search';
 
 console.log(API_KEY);
